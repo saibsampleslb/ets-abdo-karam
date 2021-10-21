@@ -5,3 +5,5 @@
 -   [ ] Wood Color | Unicolor | Solid Color
 -   [ ] About
 -   [ ] Contact
+
+<img src="/assets/Diplos%20colors/S%203005%20ROOT%20280.jpg">
